@@ -8,7 +8,8 @@ The CIFAR-10 dataset comprises 60,000 32x32 color images in 10 different classes
 - Contribute to the growing field of machine learning by mastering the intricacies of model training, evaluation, and optimization.
 
 # Dataset Used:
-![image](https://github.com/CodeSleuthX/Image_Classification_with_TensorFlow/assets/142811259/44a25d84-b187-44bc-9f3a-1ac5b6ce295c)
+![image](https://github.com/CodeSleuthX/Image_Classification_with_TensorFlow/assets/142811259/ced629e5-4d6f-4b13-befb-af03cf65a589)
+
 
 # Let's go through the code step by step:
 
